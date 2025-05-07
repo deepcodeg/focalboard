@@ -31,10 +31,10 @@
 		"@fullcalendar/interaction": "^5.10.0",
 		"@fullcalendar/react": "^5.10.0",
 		"@mattermost/compass-icons": "^0.1.10",
-		"@reduxjs/toolkit": "^1.6.0",
+		"@reduxjs/toolkit": "^2.0.0",
 		"color": "^4.0.0",
 		"draft-js": "^0.11.7",
-		"emoji-mart": "^3.0.1",
+		"emoji-mart": "^5.0.0",
 		"fullcalendar": "^5.10.0",
 		"imagemin-gifsicle": "^7.0.0",
 		"imagemin-mozjpeg": "^9.0.0",
@@ -56,8 +56,8 @@
 		"react-hot-keys": "^2.6.2",
 		"react-hotkeys-hook": "^3.3.0",
 		"react-intl": "^5.13.5",
-		"react-redux": "^7.2.4",
-		"react-router-dom": "^5.2.0",
+		"react-redux": "^9.0.0",
+		"react-router-dom": "^6.4.0",
 		"react-select": "^4.3.0"
 	},
 	"jest": {
